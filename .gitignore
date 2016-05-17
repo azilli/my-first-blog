@@ -5,3 +5,4 @@ db.sqlite3
 /static
 .DS_Store
 /intro
+post_list_v1.html
