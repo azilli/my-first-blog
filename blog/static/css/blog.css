@@ -35,3 +35,6 @@ header h1, header h1 a, header h1 a:visited, header h1 a:active {
 .post h2 a, .post h2 a:visited {
   color: #000000;
 }
+.comment {
+  margin: 20px 0px 20px 20px;
+}
